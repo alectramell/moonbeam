@@ -2,8 +2,8 @@
 
 clear
 
-echo 'alias moonbeam="clear && cd ~/ && moonbeam/./moonbeam.sh && clear"' >> ~/.bashrc
+echo 'alias moonbeam="clear && ~/moonbeam/./moonbeam.sh && clear"' >> ~/.bashrc
 
-echo 'alias moonbeam-py="clear && cd ~/ && python moonbeam && clear"' >> ~/.bashrc
+echo 'alias moonbeam-py="clear && python ~/moonbeam && clear"' >> ~/.bashrc
 
 echo 'MoonBeam v1.0 Installed! ..Restart Terminal to begin using MoonBeam!'
